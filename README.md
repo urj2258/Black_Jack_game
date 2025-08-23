@@ -25,7 +25,7 @@ python main.py
 
 Here is a screenshot of the game in action:
 
-🚨 Screenshot file (make sure it is in the same folder as README):  
+🚨 Screenshot file :  
 ![Game Screenshot](screenshot.png)
 
 ## ✨ Features Learned
